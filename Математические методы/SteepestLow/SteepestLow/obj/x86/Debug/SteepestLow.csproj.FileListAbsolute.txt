@@ -1,0 +1,5 @@
+C:\Users\марк\Documents\Visual Studio 2010\Projects\SteepestLow\SteepestLow\bin\Debug\SteepestLow.exe
+C:\Users\марк\Documents\Visual Studio 2010\Projects\SteepestLow\SteepestLow\bin\Debug\SteepestLow.pdb
+C:\Users\марк\Documents\Visual Studio 2010\Projects\SteepestLow\SteepestLow\obj\x86\Debug\SteepestLow.exe
+C:\Users\марк\Documents\Visual Studio 2010\Projects\SteepestLow\SteepestLow\obj\x86\Debug\SteepestLow.pdb
+C:\Users\марк\documents\visual studio 2010\Projects\SteepestLow\SteepestLow\obj\x86\Debug\SteepestLow.csprojResolveAssemblyReference.cache

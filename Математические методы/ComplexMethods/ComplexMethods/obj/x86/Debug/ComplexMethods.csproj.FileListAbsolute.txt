@@ -1,0 +1,11 @@
+C:\Users\марк\AppData\Local\Temporary Projects\ComplexMethods\bin\Debug\ComplexMethods.exe
+C:\Users\марк\AppData\Local\Temporary Projects\ComplexMethods\bin\Debug\ComplexMethods.pdb
+C:\Users\марк\AppData\Local\Temporary Projects\ComplexMethods\obj\x86\Debug\ComplexMethods.exe
+C:\Users\марк\AppData\Local\Temporary Projects\ComplexMethods\obj\x86\Debug\ComplexMethods.pdb
+C:\Users\марк\documents\visual studio 2010\Projects\ComplexMethods\ComplexMethods\obj\x86\Debug\ComplexMethods.exe
+C:\Users\марк\documents\visual studio 2010\Projects\ComplexMethods\ComplexMethods\obj\x86\Debug\ComplexMethods.pdb
+C:\Users\марк\documents\visual studio 2010\Projects\ComplexMethods\ComplexMethods\obj\x86\Debug\ComplexMethods.csprojResolveAssemblyReference.cache
+C:\Users\марк\documents\visual studio 2010\Projects\ComplexMethods\ComplexMethods\bin\Debug\ComplexMethods.exe
+C:\Users\марк\documents\visual studio 2010\Projects\ComplexMethods\ComplexMethods\bin\Debug\ComplexMethods.pdb
+D:\Ковчег\project\ComplexMethods\ComplexMethods\obj\x86\Debug\ComplexMethods.exe
+D:\Ковчег\project\ComplexMethods\ComplexMethods\obj\x86\Debug\ComplexMethods.pdb

@@ -1,0 +1,9 @@
+C:\Users\марк\AppData\Local\Temporary Projects\NewtonRaphson\bin\Debug\NewtonRaphson.exe
+C:\Users\марк\AppData\Local\Temporary Projects\NewtonRaphson\bin\Debug\NewtonRaphson.pdb
+C:\Users\марк\AppData\Local\Temporary Projects\NewtonRaphson\obj\x86\Debug\NewtonRaphson.exe
+C:\Users\марк\AppData\Local\Temporary Projects\NewtonRaphson\obj\x86\Debug\NewtonRaphson.pdb
+C:\Users\марк\documents\visual studio 2010\Projects\NewtonRaphson\NewtonRaphson\obj\x86\Debug\NewtonRaphson.exe
+C:\Users\марк\documents\visual studio 2010\Projects\NewtonRaphson\NewtonRaphson\obj\x86\Debug\NewtonRaphson.pdb
+C:\Users\марк\documents\visual studio 2010\Projects\NewtonRaphson\NewtonRaphson\bin\Debug\NewtonRaphson.exe
+C:\Users\марк\documents\visual studio 2010\Projects\NewtonRaphson\NewtonRaphson\bin\Debug\NewtonRaphson.pdb
+C:\Users\марк\documents\visual studio 2010\Projects\NewtonRaphson\NewtonRaphson\obj\x86\Debug\NewtonRaphson.csprojResolveAssemblyReference.cache

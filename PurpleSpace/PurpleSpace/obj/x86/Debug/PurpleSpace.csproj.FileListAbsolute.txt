@@ -1,0 +1,145 @@
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\PurpleSpace.exe
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\PurpleSpace.pdb
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\SharpDX.dll
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\SharpDX.xml
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\obj\x86\Debug\PurpleSpace.exe
+C:\Users\марк\AppData\Local\Temporary Projects\PurpleSpace\obj\x86\Debug\PurpleSpace.pdb
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\obj\x86\Debug\PurpleSpace.exe
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\obj\x86\Debug\PurpleSpace.pdb
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\obj\x86\Debug\PurpleSpace.csprojResolveAssemblyReference.cache
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\PurpleSpace.exe
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\PurpleSpace.pdb
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.dll
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.xml
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\sparkle.png
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\sparkle2.png
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\DeadAnimation.png
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\firefighter_JUMP2.png
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\FiremanFlyRightAnimation.png
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\FiremanFlyLeftAnimation.png
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\FireManAttackLeft.png
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\FireManAttackRight.png
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\drop.png
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\TwoWithTrampoline1.png
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\TwoWithTrampolineAnimation.png
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\protoBuilding.png
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\MarkLeft.png
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\MarkLeftAttack.png
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\MarkRight.png
+C:\Users\марк\Documents\Visual Studio 2010\Projects\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\MarkRightAttack.png
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\obj\x86\Debug\PurpleSpace.exe
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\obj\x86\Debug\PurpleSpace.pdb
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\DeadAnimation.png
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\drop.png
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\firefighter_JUMP2.png
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\protoBuilding.png
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\sparkle.png
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\sparkle2.png
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\TwoWithTrampoline1.png
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\TwoWithTrampolineAnimation.png
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\FireManAttackLeft.png
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\FireManAttackRight.png
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\FiremanFlyLeftAnimation.png
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\FiremanFlyRightAnimation.png
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\MarkLeft.png
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\MarkLeftAttack.png
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\MarkRight.png
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\MarkRightAttack.png
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\PurpleSpace.exe
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\PurpleSpace.pdb
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.dll
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\Lidgren.Network.dll
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.xml
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Ковчег\project\NewLearning\PurpleSpace\PurpleSpace\obj\x86\Debug\PurpleSpace.csprojResolveAssemblyReference.cache
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\obj\x86\Debug\PurpleSpace.exe
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\obj\x86\Debug\PurpleSpace.pdb
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\DeadAnimation.png
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\drop.png
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\firefighter_JUMP2.png
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\FireManAttackLeft.png
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\FireManAttackRight.png
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\FiremanFlyLeftAnimation.png
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\FiremanFlyRightAnimation.png
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\MarkLeft.png
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\MarkLeftAttack.png
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\MarkRight.png
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\MarkRightAttack.png
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\protoBuilding.png
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\sparkle.png
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\sparkle2.png
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\TwoWithTrampoline1.png
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\Content\TwoWithTrampolineAnimation.png
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\PurpleSpace.exe
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\PurpleSpace.pdb
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.dll
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.xml
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Киричко\Desktop\Projects\1\PurpleSpace\PurpleSpace\obj\x86\Debug\PurpleSpace.csprojResolveAssemblyReference.cache

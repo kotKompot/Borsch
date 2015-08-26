@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1354627348 source:d:\project\bubbles\main.cpp
+	"hge.h"
+	"hgefont.h"
+	<math.h>
+
+1202820504 d:\gamedev\hge181\include\hge.h
+	<windows.h>
+
+1184932634 d:\gamedev\hge181\include\hgefont.h
+	"hge.h"
+	"hgesprite.h"
+
+1177592146 d:\gamedev\hge181\include\hgesprite.h
+	"hge.h"
+	"hgerect.h"
+
+1176893286 d:\gamedev\hge181\include\hgerect.h
+
+1181309248 d:\gamedev\hge181\include\hgeparticle.h
+	"hge.h"
+	"hgesprite.h"
+	"hgevector.h"
+	"hgecolor.h"
+	"hgerect.h"
+
+1176893286 d:\gamedev\hge181\include\hgevector.h
+	"hge.h"
+	<math.h>
+
+1176893286 d:\gamedev\hge181\include\hgecolor.h
+	"hge.h"
+

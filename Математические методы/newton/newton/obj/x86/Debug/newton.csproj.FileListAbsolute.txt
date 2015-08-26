@@ -1,0 +1,9 @@
+C:\Users\марк\AppData\Local\Temporary Projects\newton\bin\Debug\newton.exe
+C:\Users\марк\AppData\Local\Temporary Projects\newton\bin\Debug\newton.pdb
+C:\Users\марк\AppData\Local\Temporary Projects\newton\obj\x86\Debug\newton.exe
+C:\Users\марк\AppData\Local\Temporary Projects\newton\obj\x86\Debug\newton.pdb
+C:\Users\марк\documents\visual studio 2010\Projects\newton\newton\obj\x86\Debug\newton.exe
+C:\Users\марк\documents\visual studio 2010\Projects\newton\newton\obj\x86\Debug\newton.pdb
+C:\Users\марк\documents\visual studio 2010\Projects\newton\newton\bin\Debug\newton.exe
+C:\Users\марк\documents\visual studio 2010\Projects\newton\newton\bin\Debug\newton.pdb
+C:\Users\марк\documents\visual studio 2010\Projects\newton\newton\obj\x86\Debug\newton.csprojResolveAssemblyReference.cache

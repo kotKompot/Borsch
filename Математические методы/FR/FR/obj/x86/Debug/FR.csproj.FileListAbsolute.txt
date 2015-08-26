@@ -1,0 +1,18 @@
+C:\Users\марк\AppData\Local\Temporary Projects\FR\bin\Debug\FR.exe
+C:\Users\марк\AppData\Local\Temporary Projects\FR\bin\Debug\FR.pdb
+C:\Users\марк\AppData\Local\Temporary Projects\FR\obj\x86\Debug\FR.exe
+C:\Users\марк\AppData\Local\Temporary Projects\FR\obj\x86\Debug\FR.pdb
+M:\учеба\Оптимизация\FR\FR\obj\x86\Debug\FR.exe
+M:\учеба\Оптимизация\FR\FR\obj\x86\Debug\FR.pdb
+M:\учеба\Оптимизация\FR\FR\bin\Debug\FR.exe
+M:\учеба\Оптимизация\FR\FR\bin\Debug\FR.pdb
+M:\учеба\Оптимизация\FR\FR\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\учеба\Оптимизация\FR\FR\obj\x86\Debug\FR.exe
+G:\учеба\Оптимизация\FR\FR\obj\x86\Debug\FR.pdb
+G:\учеба\Оптимизация\FR\FR\bin\Debug\FR.exe
+G:\учеба\Оптимизация\FR\FR\bin\Debug\FR.pdb
+C:\Users\марк\Documents\Visual Studio 2010\Projects\FR\FR\obj\x86\Debug\FR.exe
+C:\Users\марк\Documents\Visual Studio 2010\Projects\FR\FR\obj\x86\Debug\FR.pdb
+C:\Users\марк\documents\visual studio 2010\Projects\FR\FR\bin\Debug\FR.exe
+C:\Users\марк\documents\visual studio 2010\Projects\FR\FR\bin\Debug\FR.pdb
+C:\Users\марк\documents\visual studio 2010\Projects\FR\FR\obj\x86\Debug\FR.csprojResolveAssemblyReference.cache
